@@ -1,9 +1,10 @@
-serverAddr = "127.0.0.1"
-serverPort = 7000
+serverAddr = "103.40.14.14"
+serverPort = 8000
+metadatas.id = "XX2VjvldIY"
+transport.heartbeatInterval = 120
 
 [[proxies]]
-name = "test-tcp"
+name = "0ce50f70-0460-455d-95fb-d341f9579a49"
 type = "tcp"
 localIP = "127.0.0.1"
 localPort = 22
-remotePort = 6000
